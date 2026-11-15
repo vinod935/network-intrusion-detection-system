@@ -86,9 +86,6 @@ The expected model file is:
 
 The model requires the 69 expected network traffic features.
 
-## Limitation
-
-The model performs strongly on validation data but has substantially lower detection recall on the independent Friday test dataset. It is an academic prototype, not a production-ready security system.
 ## Dashboard Preview
 
 ![Network Intrusion Detection Dashboard](screenshots/dashboard.png)
