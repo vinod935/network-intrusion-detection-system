@@ -99,3 +99,12 @@ Download the dataset and place the required CSV files in the appropriate data di
 ## Dashboard Preview
 
 ![Network Intrusion Detection Dashboard](screenshots/dashboard.png)
+
+## Team Members
+
+| S.No. | Name | Roll Number |
+|---|---|---|
+| 1 | P. Vinod | EC24B1060 |
+| 2 | B. Pavan | EC24B1031 |
+| 3 | B. Siddhartha | EC24B1034 |
+
