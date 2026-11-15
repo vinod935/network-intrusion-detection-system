@@ -1,0 +1,5 @@
+{
+    "model": "Hist Gradient Boosting Family-Aware",
+    "threshold": 0.9992428237716963,
+    "target_validation_recall": 0.95
+}

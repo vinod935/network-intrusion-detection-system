@@ -1,0 +1,34 @@
+Model,Attack_Family,Support,Detected,Missed,Recall
+Random Forest,DoS GoldenEye,2054,2052,2,0.9990262901655307
+Random Forest,DoS Hulk,3183,3180,3,0.9990574929311969
+Random Forest,DoS Slowhttptest,1119,1115,4,0.9964253798033958
+Random Forest,DoS slowloris,1145,1140,5,0.9956331877729258
+Random Forest,FTP-Patator,1256,1256,0,1.0
+Random Forest,Heartbleed,3,2,1,0.6666666666666666
+Random Forest,Infiltration,6,3,3,0.5
+Random Forest,SSH-Patator,1083,1079,4,0.9963065558633426
+Random Forest,Web Attack � Brute Force,294,294,0,1.0
+Random Forest,Web Attack � Sql Injection,7,5,2,0.7142857142857143
+Random Forest,Web Attack � XSS,140,137,3,0.9785714285714285
+Extra Trees,DoS GoldenEye,2054,2051,3,0.998539435248296
+Extra Trees,DoS Hulk,3183,3157,26,0.9918316054037072
+Extra Trees,DoS Slowhttptest,1119,1116,3,0.9973190348525469
+Extra Trees,DoS slowloris,1145,1141,4,0.9965065502183406
+Extra Trees,FTP-Patator,1256,1254,2,0.9984076433121019
+Extra Trees,Heartbleed,3,2,1,0.6666666666666666
+Extra Trees,Infiltration,6,3,3,0.5
+Extra Trees,SSH-Patator,1083,1079,4,0.9963065558633426
+Extra Trees,Web Attack � Brute Force,294,294,0,1.0
+Extra Trees,Web Attack � Sql Injection,7,5,2,0.7142857142857143
+Extra Trees,Web Attack � XSS,140,137,3,0.9785714285714285
+Hist Gradient Boosting,DoS GoldenEye,2054,2054,0,1.0
+Hist Gradient Boosting,DoS Hulk,3183,3177,6,0.998114985862394
+Hist Gradient Boosting,DoS Slowhttptest,1119,1119,0,1.0
+Hist Gradient Boosting,DoS slowloris,1145,1143,2,0.9982532751091703
+Hist Gradient Boosting,FTP-Patator,1256,1256,0,1.0
+Hist Gradient Boosting,Heartbleed,3,2,1,0.6666666666666666
+Hist Gradient Boosting,Infiltration,6,4,2,0.6666666666666666
+Hist Gradient Boosting,SSH-Patator,1083,1083,0,1.0
+Hist Gradient Boosting,Web Attack � Brute Force,294,294,0,1.0
+Hist Gradient Boosting,Web Attack � Sql Injection,7,7,0,1.0
+Hist Gradient Boosting,Web Attack � XSS,140,139,1,0.9928571428571429

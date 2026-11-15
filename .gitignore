@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Temporary files
+*.log
+*.tmp
+
+# Large datasets
+data/raw/
+data/archive/
+data/processed/*.csv
+
+# Keep PNG graphs
+!data/processed/*.png
+dashboard/Untitled-1.html
