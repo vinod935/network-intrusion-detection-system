@@ -86,6 +86,16 @@ The expected model file is:
 
 The model requires the 69 expected network traffic features.
 
+## Dataset
+
+This project uses the CIC-IDS2017 dataset provided by the Canadian Institute for Cybersecurity.
+
+The original dataset files are not included in this repository because of their large size.
+
+**Dataset download:** https://www.unb.ca/cic/datasets/ids-2017.html
+
+Download the dataset and place the required CSV files in the appropriate data directory before running the preprocessing scripts.
+
 ## Dashboard Preview
 
 ![Network Intrusion Detection Dashboard](screenshots/dashboard.png)
